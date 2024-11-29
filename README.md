@@ -11,3 +11,4 @@ practicing java programs for interview
 8) Reverse a String/Number
 9) LCM and GCD of Two Numbers
 10) Binary to Decimal Conversion
+11) Decimal to Binary Conversion
