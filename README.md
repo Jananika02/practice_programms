@@ -18,3 +18,4 @@ practicing java programs for interview
 15) Sum of Array Elements
 16) Check if Array is Sorted
 17) Count Vowels and Consonants in a String
+18) Find the Second Largest Element in an Array
