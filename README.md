@@ -6,3 +6,4 @@ practicing java programs for interview
 3) amstrong number
 4) Palindrom Numbers
 5) Fibonacci Sequence
+6) Factorial of the number
