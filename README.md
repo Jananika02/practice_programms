@@ -9,3 +9,4 @@ practicing java programs for interview
 6) Factorial of the number
 7) Prime number check
 8) Reverse a String/Number
+9) LCM and GCD of Two Numbers
