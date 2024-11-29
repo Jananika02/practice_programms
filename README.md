@@ -13,3 +13,4 @@ practicing java programs for interview
 10) Binary to Decimal Conversion
 11) Decimal to Binary Conversion
 12) Check for Anagrams
+13) Remove Duplicates from an Array
