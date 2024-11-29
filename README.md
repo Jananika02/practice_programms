@@ -12,3 +12,4 @@ practicing java programs for interview
 9) LCM and GCD of Two Numbers
 10) Binary to Decimal Conversion
 11) Decimal to Binary Conversion
+12) Check for Anagrams
