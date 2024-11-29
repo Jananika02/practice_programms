@@ -5,3 +5,4 @@ practicing java programs for interview
 2) prime numbers
 3) amstrong number
 4) Palindrom Numbers
+5) Fibonacci Sequence
