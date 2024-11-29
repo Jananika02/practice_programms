@@ -14,3 +14,4 @@ practicing java programs for interview
 11) Decimal to Binary Conversion
 12) Check for Anagrams
 13) Remove Duplicates from an Array
+14) Find Largest and Smallest Element in an Array
