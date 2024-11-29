@@ -7,3 +7,4 @@ practicing java programs for interview
 4) Palindrom Numbers
 5) Fibonacci Sequence
 6) Factorial of the number
+7) Prime number check
