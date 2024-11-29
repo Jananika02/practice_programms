@@ -20,3 +20,4 @@ practicing java programs for interview
 17) Count Vowels and Consonants in a String
 18) Find the Second Largest Element in an Array
 19) Find the Frequency of Characters in a String
+20) Pattern Printing (Pyramid, Diamond, etc.)
