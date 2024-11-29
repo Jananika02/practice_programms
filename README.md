@@ -10,3 +10,4 @@ practicing java programs for interview
 7) Prime number check
 8) Reverse a String/Number
 9) LCM and GCD of Two Numbers
+10) Binary to Decimal Conversion
