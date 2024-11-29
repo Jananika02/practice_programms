@@ -8,3 +8,4 @@ practicing java programs for interview
 5) Fibonacci Sequence
 6) Factorial of the number
 7) Prime number check
+8) Reverse a String/Number
