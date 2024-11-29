@@ -16,3 +16,4 @@ practicing java programs for interview
 13) Remove Duplicates from an Array
 14) Find Largest and Smallest Element in an Array
 15) Sum of Array Elements
+16) Check if Array is Sorted
