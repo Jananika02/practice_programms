@@ -2,7 +2,7 @@ package practice_programms.java;
 
 import java.util.Scanner;
 
-public class sub {
+public class subtraction {
     public static void main(String[] agrs) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the First Number: ");
