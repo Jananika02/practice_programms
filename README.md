@@ -21,4 +21,3 @@ practicing java programs for interview
 18) Find the Second Largest Element in an Array
 19) Find the Frequency of Characters in a String
 20) Pattern Printing (Pyramid, Diamond, etc.)
-21) sum of 2 digit nos
